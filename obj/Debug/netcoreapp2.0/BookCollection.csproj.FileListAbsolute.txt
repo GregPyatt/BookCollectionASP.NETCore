@@ -1,0 +1,11 @@
+/home/gpyatt/CodeProjects/BookCollection/bin/Debug/netcoreapp2.0/BookCollection.deps.json
+/home/gpyatt/CodeProjects/BookCollection/bin/Debug/netcoreapp2.0/BookCollection.runtimeconfig.json
+/home/gpyatt/CodeProjects/BookCollection/bin/Debug/netcoreapp2.0/BookCollection.runtimeconfig.dev.json
+/home/gpyatt/CodeProjects/BookCollection/bin/Debug/netcoreapp2.0/BookCollection.dll
+/home/gpyatt/CodeProjects/BookCollection/bin/Debug/netcoreapp2.0/BookCollection.pdb
+/home/gpyatt/CodeProjects/BookCollection/obj/Debug/netcoreapp2.0/BookCollection.csprojResolveAssemblyReference.cache
+/home/gpyatt/CodeProjects/BookCollection/obj/Debug/netcoreapp2.0/BookCollection.csproj.CoreCompileInputs.cache
+/home/gpyatt/CodeProjects/BookCollection/obj/Debug/netcoreapp2.0/BookCollection.AssemblyInfoInputs.cache
+/home/gpyatt/CodeProjects/BookCollection/obj/Debug/netcoreapp2.0/BookCollection.AssemblyInfo.cs
+/home/gpyatt/CodeProjects/BookCollection/obj/Debug/netcoreapp2.0/BookCollection.dll
+/home/gpyatt/CodeProjects/BookCollection/obj/Debug/netcoreapp2.0/BookCollection.pdb
